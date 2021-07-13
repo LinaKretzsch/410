@@ -13,3 +13,7 @@ indicate the political direction of the underlying data set.
 
 The project code is very simplistic and consists of an index.html, stylesheet and simple script. The script will generate a random 
 number and load an image to the website. 
+
+## Bugs
+
+I need to fix the modal overlay so that it is centered to the screen on resizing. 
